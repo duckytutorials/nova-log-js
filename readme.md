@@ -2,7 +2,7 @@
 
 * Fast
 * Looks good
-* Lite
+* Lightweight
 * Easy
 
 ## Setup
